@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/insta/static/css/main.c0be3876.css",
-    "main.js": "/insta/static/js/main.cf778fa3.js",
-    "static/media/loginimage3.png": "/insta/static/media/loginimage3.a015f55058ad24a00428.png",
-    "static/media/loginimage1.png": "/insta/static/media/loginimage1.d688ff1f110b88f3c0c9.png",
-    "static/media/loginimage4.png": "/insta/static/media/loginimage4.66d6eaaf896694188857.png",
-    "static/media/loginimage.png": "/insta/static/media/loginimage.404f8de783b24fa45b85.png",
-    "static/media/loginimage2.png": "/insta/static/media/loginimage2.a8b4d779fa1026a205a2.png",
-    "static/media/man3.jpeg": "/insta/static/media/man3.96fae756be2759fd3151.jpeg",
-    "static/media/man8.jpeg": "/insta/static/media/man8.4879dba65deafb4ad868.jpeg",
-    "static/media/car.jpeg": "/insta/static/media/car.059a707b92f721b3c113.jpeg",
-    "static/media/man2.jpeg": "/insta/static/media/man2.db4df106663962b54bc0.jpeg",
-    "static/media/man6.jpeg": "/insta/static/media/man6.f17f52e1bdcdcec734e7.jpeg",
-    "static/media/man1.jpeg": "/insta/static/media/man1.28fcb4d33f7ef0e4c718.jpeg",
-    "index.html": "/insta/index.html",
-    "main.c0be3876.css.map": "/insta/static/css/main.c0be3876.css.map",
-    "main.cf778fa3.js.map": "/insta/static/js/main.cf778fa3.js.map"
+    "main.css": "/insta-app/static/css/main.c0be3876.css",
+    "main.js": "/insta-app/static/js/main.b2daee2c.js",
+    "static/media/loginimage3.png": "/insta-app/static/media/loginimage3.a015f55058ad24a00428.png",
+    "static/media/loginimage1.png": "/insta-app/static/media/loginimage1.d688ff1f110b88f3c0c9.png",
+    "static/media/loginimage4.png": "/insta-app/static/media/loginimage4.66d6eaaf896694188857.png",
+    "static/media/loginimage.png": "/insta-app/static/media/loginimage.404f8de783b24fa45b85.png",
+    "static/media/loginimage2.png": "/insta-app/static/media/loginimage2.a8b4d779fa1026a205a2.png",
+    "static/media/man3.jpeg": "/insta-app/static/media/man3.96fae756be2759fd3151.jpeg",
+    "static/media/man8.jpeg": "/insta-app/static/media/man8.4879dba65deafb4ad868.jpeg",
+    "static/media/car.jpeg": "/insta-app/static/media/car.059a707b92f721b3c113.jpeg",
+    "static/media/man2.jpeg": "/insta-app/static/media/man2.db4df106663962b54bc0.jpeg",
+    "static/media/man6.jpeg": "/insta-app/static/media/man6.f17f52e1bdcdcec734e7.jpeg",
+    "static/media/man1.jpeg": "/insta-app/static/media/man1.28fcb4d33f7ef0e4c718.jpeg",
+    "index.html": "/insta-app/index.html",
+    "main.c0be3876.css.map": "/insta-app/static/css/main.c0be3876.css.map",
+    "main.b2daee2c.js.map": "/insta-app/static/js/main.b2daee2c.js.map"
   },
   "entrypoints": [
     "static/css/main.c0be3876.css",
-    "static/js/main.cf778fa3.js"
+    "static/js/main.b2daee2c.js"
   ]
 }
