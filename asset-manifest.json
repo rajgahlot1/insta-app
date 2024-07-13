@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/insta-app/static/css/main.c0be3876.css",
-    "main.js": "/insta-app/static/js/main.c9c4d3bf.js",
+    "main.js": "/insta-app/static/js/main.e14263d9.js",
     "static/media/loginimage3.png": "/insta-app/static/media/loginimage3.a015f55058ad24a00428.png",
     "static/media/loginimage1.png": "/insta-app/static/media/loginimage1.d688ff1f110b88f3c0c9.png",
     "static/media/loginimage4.png": "/insta-app/static/media/loginimage4.66d6eaaf896694188857.png",
@@ -15,10 +15,10 @@
     "static/media/man1.jpeg": "/insta-app/static/media/man1.28fcb4d33f7ef0e4c718.jpeg",
     "index.html": "/insta-app/index.html",
     "main.c0be3876.css.map": "/insta-app/static/css/main.c0be3876.css.map",
-    "main.c9c4d3bf.js.map": "/insta-app/static/js/main.c9c4d3bf.js.map"
+    "main.e14263d9.js.map": "/insta-app/static/js/main.e14263d9.js.map"
   },
   "entrypoints": [
     "static/css/main.c0be3876.css",
-    "static/js/main.c9c4d3bf.js"
+    "static/js/main.e14263d9.js"
   ]
 }
