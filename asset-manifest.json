@@ -1,11 +1,16 @@
 {
   "files": {
-    "main.css": "/insta-app/static/css/main.67ffac0b.css",
-    "main.js": "/insta-app/static/js/main.ae276b8b.js",
+    "main.css": "/insta-app/static/css/main.4388a427.css",
+    "main.js": "/insta-app/static/js/main.362cf41a.js",
     "static/media/VID-20240616-WA0001.mp4": "/insta-app/static/media/VID-20240616-WA0001.3ed3c370ceea6bc29528.mp4",
+    "static/media/VID-20240704-WA0005.mp4": "/insta-app/static/media/VID-20240704-WA0005.577d90eebd969a705e5d.mp4",
     "static/media/VID-20240704-WA0009.mp4": "/insta-app/static/media/VID-20240704-WA0009.96b24bbf51f8751c26db.mp4",
+    "static/media/VID-20240704-WA0008.mp4": "/insta-app/static/media/VID-20240704-WA0008.f860c85e05005f4ee456.mp4",
+    "static/media/VID-20240704-WA0006.mp4": "/insta-app/static/media/VID-20240704-WA0006.af1674bdd6479b3e2ae5.mp4",
     "static/media/VID-20240704-WA0002.mp4": "/insta-app/static/media/VID-20240704-WA0002.c410de87f6b69a0be05b.mp4",
     "static/media/VID-20240704-WA0007.mp4": "/insta-app/static/media/VID-20240704-WA0007.a6ef2a4216838a5b2579.mp4",
+    "static/media/VID-20240704-WA0004.mp4": "/insta-app/static/media/VID-20240704-WA0004.9e5db702b9ab2e00e3db.mp4",
+    "static/media/VID-20240704-WA0003.mp4": "/insta-app/static/media/VID-20240704-WA0003.b6dbf2929c3c21f3471d.mp4",
     "static/media/loginimage3.png": "/insta-app/static/media/loginimage3.a015f55058ad24a00428.png",
     "static/media/loginimage1.png": "/insta-app/static/media/loginimage1.d688ff1f110b88f3c0c9.png",
     "static/media/loginimage4.png": "/insta-app/static/media/loginimage4.66d6eaaf896694188857.png",
@@ -18,11 +23,11 @@
     "static/media/man6.jpeg": "/insta-app/static/media/man6.f17f52e1bdcdcec734e7.jpeg",
     "static/media/man1.jpeg": "/insta-app/static/media/man1.28fcb4d33f7ef0e4c718.jpeg",
     "index.html": "/insta-app/index.html",
-    "main.67ffac0b.css.map": "/insta-app/static/css/main.67ffac0b.css.map",
-    "main.ae276b8b.js.map": "/insta-app/static/js/main.ae276b8b.js.map"
+    "main.4388a427.css.map": "/insta-app/static/css/main.4388a427.css.map",
+    "main.362cf41a.js.map": "/insta-app/static/js/main.362cf41a.js.map"
   },
   "entrypoints": [
-    "static/css/main.67ffac0b.css",
-    "static/js/main.ae276b8b.js"
+    "static/css/main.4388a427.css",
+    "static/js/main.362cf41a.js"
   ]
 }
